@@ -62,4 +62,5 @@ SET Status = 'Completed'
 WHERE Payment_No = 4;
 
 -- SELECT ALL
+
 SELECT * FROM Payment;
