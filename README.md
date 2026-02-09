@@ -27,7 +27,7 @@ This project is created for educational purposes only.
 - Writing efficient and meaningful main SQL queries
 - Oracle SQL built-in functions
 
-## Important Note
+## IMPORTANT NOTE
 This project was completed as a group academic project as part of university coursework.
 
 ## ERD Diagram
