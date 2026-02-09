@@ -29,3 +29,7 @@ This project is created for educational purposes only.
 
 ## Important Note
 This project was completed as a group academic project as part of university coursework.
+
+## ERD Diagram
+
+![ERD Diagram](FINAL_UBER_ERD Diagram.drawio.png)
