@@ -31,6 +31,4 @@ This project is created for educational purposes only.
 This project was completed as a group academic project as part of university coursework.
 
 ## ERD Diagram
-## ERD Diagram
-
 ![ERD Diagram](FINAL_UBER_ERD_Diagram.drawio.png)
